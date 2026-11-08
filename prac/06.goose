@@ -1,0 +1,8 @@
+fn main() {
+    var count = 0;
+
+    while count < 5 {
+        print(count);
+        count++;
+    }
+}
